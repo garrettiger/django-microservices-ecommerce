@@ -175,7 +175,7 @@ http://localhost:8004/api/schema/swagger-ui/#/
 1. Clone or unzip the project:
 
    ```bash
-   git clone git@github.com:BlazejBielski/ecommerce_microservices.git
+   git clone git@github.com:garrettiger/django-microservices-ecommerce.git
    ```
 
 2. Go to the project directory and copy environment variable templates:
